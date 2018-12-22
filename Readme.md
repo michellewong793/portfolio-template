@@ -1,3 +1,8 @@
+# Portfolio 1 Template from Dinish Pandiyan 
+
+  My first attempt at creating a portfolio for my art and writing. 
+
+
 # Dinesh Pandiyan
 
 This repo holds my **Dev Landing Page**, a one stop shop to everything I do online. 🎉
