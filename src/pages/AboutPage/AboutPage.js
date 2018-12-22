@@ -2,6 +2,7 @@ import React from 'react';
 import PropTypes from 'prop-types';
 import ScrollToNext from '@components/ScrollToNext';
 import './style.scss';
+import Pic from '../../images/pic.jpg';
 
 const AboutPage = (props, context) => {
   const {
@@ -44,12 +45,13 @@ const AboutPage = (props, context) => {
               (except React though) and had so much fun along the way.
             </p>
             <p>
-              React-Redux, Node.js, Ruby on Rails, Java, Spring Boot, Docker and
+              React-Redux, Node.js, Java, Spring Boot, Docker and
               AWS are the main tricks up my sleeve. I am also obsessed with making the web look pretty with SASS/CSS.
             </p>
             <p className="text-emoji" style={{ color: colorPrimary }}>
               \ (•◡•) /
             </p>
+            <img className= "center" src= {Pic} alt="My face" width = "200"></img>
           </div>
         </div>
       </div>
